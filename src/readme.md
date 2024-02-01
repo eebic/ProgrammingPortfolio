@@ -1,4 +1,4 @@
-# Jenna Tran's Programming Portfolio 2023-2024
+# Programming Portfolio 2023-2024 | Jenna Tran | (jennatran0205@gmail.com)
 Skyline High School Computer Programming
 
 ## USOE Tech Certifications
