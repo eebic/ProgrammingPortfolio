@@ -39,6 +39,6 @@ Basic etch-a-sketch drawing program
 ### Computer Timeline
 A timeline of major computer tech advancements throughout the years. Descriptions included.
 
-![Description](link to source file)
+![Timeline Image](https://github.com/eebic/programmingportfolio/blob/main/images/timeline.png)
 
 [Source Code](https://github.com/eebic/programmingportfolio/blob/main/src/Timeline.zip)
