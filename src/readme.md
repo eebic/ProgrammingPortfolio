@@ -7,3 +7,8 @@ Skyline High School Computer Programming
 ## Group Project (2023-2024)
 
 ## Individual Projects (2023-2024)
+
+### SpaceGame
+OOP graphical game with sound and keyboard/mouse listeners.
+
+![Description](link to source file)
