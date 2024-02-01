@@ -32,7 +32,11 @@ Basic etch-a-sketch drawing program
 
 ![Description](link to source file)
 
+[Source Code](https://github.com/eebic/programmingportfolio/blob/main/src/EtchASketch.pde.zip)
+
 ### Computer Timeline
 A timeline of major computer tech advancements throughout the years. Descriptions included.
 
 ![Description](link to source file)
+
+[Source Code]()
