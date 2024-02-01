@@ -25,6 +25,8 @@ Graphical calculator with standard operations, square root, and trig identities
 
 ![Description](link to source file)
 
+[Source Code](https://github.com/eebic/programmingportfolio/blob/main/src/Calculator.zip)
+
 ### Etch-A-Sketch
 Basic etch-a-sketch drawing program
 
