@@ -32,7 +32,7 @@ Graphical calculator with standard operations, square root, and trig identities
 ### Etch-A-Sketch
 Basic etch-a-sketch drawing program
 
-![Description](link to source file)
+![Image of Etch-A-Sketch program](https://github.com/eebic/programmingportfolio/blob/main/images/line-000403.png)
 
 [Source Code](https://github.com/eebic/programmingportfolio/blob/main/src/EtchASketch.pde.zip)
 
