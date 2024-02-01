@@ -11,7 +11,7 @@ Skyline High School Computer Programming
 ### SpaceGame
 OOP graphical game with sound and keyboard/mouse listeners.
 
-![Description](link to source file)
+![Space Game](https://github.com/eebic/programmingportfolio/blob/main/images/spaceship.png)
 
 [Source code](https://github.com/eebic/programmingportfolio/blob/main/src/SpaceGame.zip)
 
