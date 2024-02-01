@@ -25,7 +25,7 @@ A word generator that randomly takes prefixes, suffixes, and roots to form words
 ### Calculator
 Graphical calculator with standard operations, square root, and trig identities
 
-![Description](link to source file)
+![Calculator](https://github.com/eebic/programmingportfolio/blob/main/images/calculator.png)
 
 [Source Code](https://github.com/eebic/programmingportfolio/blob/main/src/Calculator.zip)
 
