@@ -13,22 +13,26 @@ OOP graphical game with sound and keyboard/mouse listeners.
 
 ![Description](link to source file)
 
+
 ### Random Word Generator
 A word generator that randomly takes prefixes, suffixes, and roots to form words. Definitions are included.
 
 ![Description](link to source file)
+
 
 ### Calculator
 Graphical calculator with standard operations, square root, and trig identities
 
 ![Description](link to source file)
 
+
 ### Etch-A-Sketch
 Basic etch-a-sketch drawing program
 
 ![Description](link to source file)
 
-## Computer Timeline
+
+### Computer Timeline
 A timeline of major computer tech advancements throughout the years. Descriptions included.
 
 ![Description](link to source file)
