@@ -45,6 +45,6 @@ Graphical bar converter of kilometers to miles (and vice versa)
 ### Computer Timeline
 A timeline of major computer tech advancements throughout the years. Descriptions included.
 
-![Timeline Image](https://github.com/eebic/programmingportfolio/blob/main/images/timeline.png)
+![Timeline Image](https://github.com/eebic/ProgrammingPortfolio/blob/main/images/timeline.png?raw=true)
 
 [Source Code](https://github.com/eebic/programmingportfolio/blob/main/src/Timeline.zip)
