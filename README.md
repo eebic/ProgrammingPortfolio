@@ -32,9 +32,15 @@ Graphical calculator with standard operations, square root, and trig identities
 ### Etch-A-Sketch
 Basic etch-a-sketch drawing program
 
-![Image of Etch-A-Sketch program](https://github.com/eebic/programmingportfolio/blob/main/images/line-000403.png)
+![Etch-A-Sketch program](https://github.com/eebic/programmingportfolio/blob/main/images/line-000403.png)
 
 [Source Code](https://github.com/eebic/programmingportfolio/blob/main/src/EtchASketch.pde.zip)
+
+### Miles to Kilometers Unit Converter
+Graphical bar converter of kilometers to miles (and vice versa)
+
+![Unit Converter]()
+[Source Code]()
 
 ### Computer Timeline
 A timeline of major computer tech advancements throughout the years. Descriptions included.
