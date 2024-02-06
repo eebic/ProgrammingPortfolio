@@ -39,7 +39,7 @@ Basic etch-a-sketch drawing program
 ### Miles to Kilometers Unit Converter
 Graphical bar converter of kilometers to miles (and vice versa)
 
-![Unit Converter](https://github.com/eebic/programmingportfolio/blob/main/images/converter.png)
+![Unit Converter](https://github.com/eebic/ProgrammingPortfolio/blob/main/images/converter.png?raw=true)
 [Source Code](https://github.com/eebic/programmingportfolio/blob/main/src/Converter.pde.zip)
 
 ### Computer Timeline
