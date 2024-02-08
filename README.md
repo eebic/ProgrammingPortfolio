@@ -18,7 +18,7 @@ OOP graphical game with sound and keyboard/mouse listeners.
 ### Random Word Generator
 A word generator that randomly takes prefixes, suffixes, and roots to form words. Definitions are included.
 
-![Description](link to source file)
+![Random Word Generator](https://github.com/eebic/ProgrammingPortfolio/blob/main/images/RandomWordGenerator.png?raw=true)
 
 [Source code]()
 
