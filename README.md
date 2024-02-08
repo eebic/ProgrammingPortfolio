@@ -20,7 +20,7 @@ A word generator that randomly takes prefixes, suffixes, and roots to form words
 
 ![Random Word Generator](https://github.com/eebic/ProgrammingPortfolio/blob/main/images/RandomWordGenerator.png?raw=true)
 
-[Source code]()
+[Source code](https://github.com/eebic/programmingportfolio/blob/main/src/RandomWorkGenerator.java.zip)
 
 ### Calculator
 Graphical calculator with standard operations, square root, and trig identities
@@ -40,6 +40,7 @@ Basic etch-a-sketch drawing program
 Graphical bar converter of kilometers to miles (and vice versa)
 
 ![Unit Converter](https://github.com/eebic/ProgrammingPortfolio/blob/main/images/converter.png?raw=true)
+
 [Source Code](https://github.com/eebic/programmingportfolio/blob/main/src/Converter.pde.zip)
 
 ### Computer Timeline
