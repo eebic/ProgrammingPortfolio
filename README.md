@@ -22,6 +22,13 @@ OOP graphical game with sound and keyboard/mouse listeners.
 
 [Source code](https://github.com/eebic/programmingportfolio/blob/main/src/SpaceGame.zip)
 
+### ShapeShifters
+OOP graphical game with keyboard listeners. The goal is to convert enemy circles into squares and grow your army. If you hit the walls or yourself, you die. A slower-paced game for new/beginner players who are unfamiliar with video game controls or lack quick reaction time/speed.
+
+![ShapeShifters]()
+
+[Link to Repository](https://github.com/eebic/ShapeShifters)
+
 ### Random Word Generator
 A word generator that randomly takes prefixes, suffixes, and roots to form words. Definitions are included.
 
