@@ -6,6 +6,11 @@ Skyline High School Computer Programming
 * Computer Programming 2 Java
   
 ## Group Project (2023-2024)
+### PEMDASH
+OOP graphical game with keyboard listeners.
+![Space Game](https://github.com/eebic/ProgrammingPortfolio/blob/main/images/spaceship.png?raw=true)
+
+[Source code](https://github.com/eebic/programmingportfolio/blob/main/src/SpaceGame.zip)
 
 ## Individual Projects (2023-2024)
 
