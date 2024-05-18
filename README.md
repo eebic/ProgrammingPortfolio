@@ -25,7 +25,7 @@ OOP graphical game with sound and keyboard/mouse listeners.
 ### ShapeShifters
 OOP graphical game with keyboard listeners. The goal is to convert enemy circles into squares and grow your army. If you hit the walls or yourself, you die. A slower-paced game for new/beginner players who are unfamiliar with video game controls or lack quick reaction time/speed.
 
-![ShapeShifters]()
+![ShapeShifters](https://github.com/eebic/ProgrammingPortfolio/blob/main/images/shapeshifters.png?raw=true)
 
 [Link to Repository](https://github.com/eebic/ShapeShifters)
 
