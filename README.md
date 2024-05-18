@@ -8,7 +8,7 @@ Skyline High School Computer Programming
 ## Group Project (2023-2024)
 ### PEMDASH
 OOP graphical game with keyboard listeners.
-![Space Game](https://github.com/eebic/ProgrammingPortfolio/blob/main/images/spaceship.png?raw=true)
+![Space Game](https://github.com/olmpyia/GroupProject/blob/main/images/(MM)startscreen.png?raw=true)
 
 [Group Repository](https://github.com/olmpyia/GroupProject)
 
