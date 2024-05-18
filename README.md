@@ -10,7 +10,7 @@ Skyline High School Computer Programming
 OOP graphical game with keyboard listeners.
 ![Space Game](https://github.com/eebic/ProgrammingPortfolio/blob/main/images/spaceship.png?raw=true)
 
-[Source code](https://github.com/eebic/programmingportfolio/blob/main/src/SpaceGame.zip)
+[Group Repository](https://github.com/olmpyia/GroupProject)
 
 ## Individual Projects (2023-2024)
 
