@@ -9,7 +9,7 @@ Skyline High School Computer Programming
 ### PEMDASH
 OOP graphical game with keyboard listeners. A mix between geometry dash and PEMDAS mathematics for a time of fun learning!
 
-![Space Game](https://github.com/olmpyia/GroupProject/blob/main/images/(MM)startscreen.png?raw=true)
+![PEMDASH](https://github.com/olmpyia/GroupProject/blob/main/images/(MM)startscreen.png?raw=true)
 
 [Group Repository](https://github.com/olmpyia/GroupProject)
 
